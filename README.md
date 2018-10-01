@@ -1,2 +1,2 @@
-# FisrtRepository
+# fisrt repository
 a project
