@@ -1,2 +1,2 @@
 # fisrt repository
-a project
+a repository
