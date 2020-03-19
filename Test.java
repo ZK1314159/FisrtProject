@@ -8,4 +8,8 @@ public class Test
     run () {
         System.out.println("run!");
     }
+
+    count () {
+        System.out.println("count!");
+    }
 }
