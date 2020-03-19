@@ -4,4 +4,8 @@ public class Test
     {
     	System.out.println("Hello World!");
     }
+
+    run () {
+        System.out.println("run!");
+    }
 }
