@@ -14,4 +14,6 @@ public class Test
     }
 
     resetTest () {}
+
+    resetTest2 () {}
 }
