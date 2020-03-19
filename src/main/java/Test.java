@@ -12,8 +12,4 @@ public class Test
     count () {
         System.out.println("count!");
     }
-
-    reset () {
-        System.out.println("reset!");
-    }
 }
