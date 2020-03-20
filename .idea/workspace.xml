@@ -46,6 +46,8 @@
                 <element signature="e#114#115#0" expanded="true" />
                 <element signature="e#128#129#0" expanded="true" />
                 <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -177,7 +179,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584602660902</updated>
       <workItem from="1584602662171" duration="16528000" />
-      <workItem from="1584708809411" duration="2233000" />
+      <workItem from="1584708809411" duration="2533000" />
     </task>
     <task id="LOCAL-00001" summary="add run function">
       <created>1584603644093</created>
@@ -281,7 +283,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18761000" />
+    <option name="totallyTimeSpent" value="19061000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -436,6 +438,8 @@
             <element signature="e#114#115#0" expanded="true" />
             <element signature="e#128#129#0" expanded="true" />
             <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
           </folding>
         </state>
       </provider>
