@@ -1,0 +1,5 @@
+#忽略idea生成文件
+.idea
+
+#忽略maven生成文件
+.mvn
