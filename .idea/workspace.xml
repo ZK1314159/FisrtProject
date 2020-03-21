@@ -36,19 +36,12 @@
     <favorites_list name="githubRepository" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/addTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -68,10 +61,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/addTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Test.java" />
         <option value="$PROJECT_DIR$/Test.java" />
         <option value="$PROJECT_DIR$/addTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/addTest.java" />
       </list>
     </option>
   </component>
@@ -107,8 +100,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,6 +119,13 @@
               <item name="githubRepository" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="githubRepository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="githubRepository" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,11 +279,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584710916611</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="branch master">
+      <created>1584715218502</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1584715218502</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19061000" />
+    <option name="totallyTimeSpent" value="20547000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -296,7 +303,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -304,12 +310,12 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" show_stripe_button="false" side_tool="true" />
       <window_info id="Repositories" order="5" weight="0.32983023" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.21341956" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2166532" />
       <window_info id="Structure" order="7" show_stripe_button="false" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" show_stripe_button="false" weight="0.6305506" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" order="2" weight="0.3285968" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5004042" side_tool="true" weight="0.59857905" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5012126" side_tool="true" weight="0.79573715" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3285968" />
       <window_info anchor="bottom" id="Message" order="6" />
@@ -319,7 +325,7 @@
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" weight="0.5737122" />
-      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4995958" weight="0.6483126" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.4987874" visible="true" weight="0.79573715" />
       <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2497979" />
@@ -382,7 +388,8 @@
     <MESSAGE value="resetTest&#10;&#10;This reverts commit 40b7ffb6bb37f77ff52c785b54ef3fba4539b070." />
     <MESSAGE value="resetTest2&#10;&#10;This reverts commit 40b7ffb6bb37f77ff52c785b54ef3fba4539b070." />
     <MESSAGE value="resetTest3" />
-    <option name="LAST_COMMIT_MESSAGE" value="resetTest3" />
+    <MESSAGE value="branch master" />
+    <option name="LAST_COMMIT_MESSAGE" value="branch master" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -403,33 +410,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/picture.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/addTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="e#67#68#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/addTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -441,6 +421,13 @@
             <element signature="e#186#187#0" expanded="true" />
             <element signature="e#230#231#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/addTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
